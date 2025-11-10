@@ -1,2 +1,1 @@
-# cst-corporate-fed-patch-array
-1×4 microstrip patch array designed in CST with a corporate feed using quarter-wave transformers (1→2→4). Focuses on feed topology, in-phase excitation, and radiation patterns. Includes CST project files and exported plots; matching/S11 optimization left as future work.
+A time-boxed CST study of a 1×4 corporate-fed patch array near 5 GHz. The design uses quarter-wave transformers to realize 1→2→4 power splits and in-phase excitation at the elements. Repository includes CST files, field/pattern exports, and notes on layout and feed routing. Intent is to document topology and behavior; full S₁₁/bandwidth optimization is left for future iterations.
